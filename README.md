@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibhav Shah</h1>
-<h3 align="center">A passionate frontend developer ✨ I'm an undergrad, currently studying at Indian Institute of Information Technology Vadodara, passionate about learning new things! from India</h3>
+<h3 align="center">A passionate frontend developer ✨ I'm an undergrad, currently studying at Indian Institute of Information Technology Vadodara, passionate about learning new things! from Nepal</h3>
 
 - 🔭 I’m currently working on **Reactjs**
 
