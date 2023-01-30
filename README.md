@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **ja168010@gmail.com**
+- 📫 How to reach me **202051212@iiitvadodara.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
